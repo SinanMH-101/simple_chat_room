@@ -1,6 +1,6 @@
 # TCP Chat App
 
-This is a small rpoject to practice some simple networking concepts.A simple multi-user terminal-based chat application built using Python sockets and threading. The project includes a server that accepts multiple client connections and broadcasts messages in real-time.
+This is a small project to practice some simple networking concepts.A simple multi-user terminal-based chat application built using Python sockets and threading. The project includes a server that accepts multiple client connections and broadcasts messages in real-time.
 
 ## What I learned:
 - How TCP/IP networking works using sockets
